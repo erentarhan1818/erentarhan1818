@@ -3,7 +3,8 @@
 - 🌱 Currently for the back side : C#, Asp.net Core, SqlServer, MongoDB
       For front side :Html, Css and Bootstrap 
       For mobile : Flutter
-      For the game:C# Unity 
+      For the game:C# Unity
+  for the 1 year cyber security and red team
       I'm learning.
 - 📫 You can reach me at erentarhan18@gmail.com
 
